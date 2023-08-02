@@ -1,0 +1,197 @@
+.img{
+    padding-left: 280px;
+    background-color:silver;
+    margin-top: 10px;
+    
+}
+.bar{
+    padding-left: 230px;
+}
+.img :hover{
+    background-color: black;
+    width: 100px;
+    
+}
+.container{
+    margin-left: 250px;
+    border: 5px solid red;
+    border-width: 5px;
+    padding: 10px;
+    margin-right: 400px;
+   background-color: #be4d25;
+    
+    
+}
+.container #aa{
+    color: aliceblue;
+}
+
+
+.seceond{
+    margin-left: 880px;
+position: relative ; 
+bottom: 500px;   
+
+border: 10px solid rgb(216, 252, 15);
+
+background-color: rgb(216, 252, 15);
+
+margin-right: 70px;
+ }
+ .Rocky{
+    position: relative;
+    margin-left: 900px;
+    bottom: 500px;
+    margin-right: 500px;
+    color: white;
+    background-color: rgb(11, 237, 11);
+  
+}
+  .para{
+    position: relative;
+    margin-left: 1050px;
+    bottom: 650px;
+    background-color: green;
+  }
+  .five{
+    position: relative;
+margin-left: 260px;
+bottom: 570px;
+border: solid black;
+margin-right: 660px;
+background-color: burlywood;
+}
+.six{
+    position: relative;
+    margin-left: 630px;
+    bottom: 870px;
+    border: solid black;
+    margin-right: 290px; 
+    background-color: steelblue;  
+}
+.seven{
+    position: relative;
+    margin-left: 990px;
+    bottom: 1170px;
+    border: solid black;
+    margin-right: 20px;
+    background-color: gray;
+}
+.ss{
+    position: relative;
+    bottom: 1100px;
+}
+.ss #text{
+    margin-left: 200px;
+    border: solid black;
+    margin-right: 850px;
+position: relative;
+top: 20px;
+background-color: black;
+color: gray;
+}
+.eight{
+    position: relative;
+margin-left: 200px;
+bottom: 800px;
+border: solid gray;
+margin-right:800px ;
+color: white;
+background-color: gray;
+}
+.nine{
+    position: relative;
+    margin-left: 490px;
+    bottom: 1200px;
+border: solid red;
+margin-right: 520px;
+color: white;
+background-color: red;
+}
+.ten{
+    position: relative;
+    margin-left: 780px;
+    bottom: 1530px;
+    border: solid gray;
+    margin-right: 250px;
+    background-color: gray;
+}
+.eleven{
+    position: relative;
+    margin-left: 200px;
+    bottom: 1510px;
+    border: solid lightblue;
+    margin-right: 800px;
+    background-color: aqua;
+}
+.eleven h2{
+    color: white;
+}
+.twelve{
+    position: relative;
+     margin-left:500px ;
+     bottom: 1850px;
+     border: solid white;
+     margin-right: 550px;
+     color: gray;
+}
+.sleep{
+    position: relative;
+    margin-left:500px ;
+    bottom: 1850px;
+    border: solid blue;
+     margin-right: 510px;
+     background-color: blue;
+     color: white;
+}
+
+.last{
+    position: relative;
+    margin-left: 780px;
+    bottom: 2300px;
+    border: solid purple;
+    margin-right: 227px;
+    background-color: palevioletred;
+}
+.last h2{
+    color: white;
+}
+.last img{
+    transition: transform 0.5s;
+}
+
+.view{
+    position: relative;
+    margin-left: 810px;
+    bottom: 2250px;
+    border: solid brown;
+    margin-right: 200px;
+    background-color: coral;
+}
+.half{
+    position: relative;
+    margin-left: 810px;
+    bottom: 2250px;
+    border: solid 5px steelblue ; 
+    margin-right:200px ;
+    background-color:skyblue;
+}
+.block{
+    background-color: antiquewhite;
+}
+.lastt{
+    position: relative;
+    bottom: 2200px;
+}
+.button{
+    position: relative;
+    bottom: 3600px;
+    margin-left: 900px;
+    size: 500px;
+    font-size: 17px;
+    border: solid 2px white;
+margin-right: 150px;
+background-color: black;
+color: white;
+
+}
