@@ -1,0 +1,159 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    position: relative;
+    top: 10px;
+}
+.header{
+    display: flex;
+    background-color:#07152F;
+    flood-color: white;
+    
+}
+.imgage{
+    position: relative;
+    top: 20px;
+margin-top: 20px;
+
+}
+
+.para{
+    margin-right: 400px;
+    color: white;
+    
+}
+
+.card1{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 210px;
+    height: 280px;
+    background-color: white;
+    /* margin-left: 100px; */
+}
+.dell{
+     display: inline;
+   
+}
+.card-2{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 210px;
+    height: 280px;
+    background-color: white;
+}
+.card-3{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 200px;
+    height: 280px;
+    background-color: white;
+}
+.middle{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: -30px;
+    margin-left: 0px;
+    background-color: #196BDE;
+    border-color: white;
+    width: 100%;
+    position: relative;
+  top: 40px;
+}
+.pic-1{
+    margin-left: 70px;
+    border-radius: 10px;
+    border: 0px solid white;
+    
+}
+.ss{
+    position: relative;
+    top: 20px;
+}
+.pic-2{
+    margin-left: 70px;
+}
+ .pic-3{
+    margin-left: 70px;
+ }   
+
+
+.helllo{
+    background-color: blanchedalmond;;
+    height: 100px;
+    width: 100px;
+}
+
+
+.pic-2{
+    margin-right: 20px;
+}
+.mid{
+    margin-left: 400px;
+}
+.text{
+     margin-left: 400px;
+}
+.text-1{
+      color: white;
+      background-color: #196BDE;
+      margin-left: 4px;
+}
+.text-3{
+   color: #196BDE;
+}
+.mainn{
+    display: flex;
+    justify-content: stretch;
+    /* border: 2px solid black; */
+    background-color: #FBFBFB;
+    align-items: center;
+    justify-content: center;
+    height: 1100px;
+}
+.col-1{
+    padding: 20px;
+    border: 1px solid black;
+    height: 800px;
+}
+.del{
+    color: #196BDE;
+}
+.button{
+    background-color: #1A4986;
+    color: white;
+}
+.tab{
+    background-color: #B8FCFF;
+}
+.chaos{
+    color: #196BDE ;
+}
+.alt{
+    background-color: #1D2A3B;
+    color: white;
+    width: 355px;
+    height: 40px;
+    position: relative;
+    bottom: 20px;
+    /* margin-bottom: 150px; */
+}
+.line{
+    text-decoration:line-through;
+}
+.ending{
+    margin-left: 200px;
+    background-color: #EFF6FF;
+    width: 1000px;
+    
+    
+}
+.ending h1{
+    color: #07152F;
+    font-size: 70px;
+}
