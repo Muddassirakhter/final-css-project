@@ -1,0 +1,152 @@
+.head{
+    font-size: 26px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(17, 1, 1);
+    position: relative;
+    margin-top: 100px;
+    height: 30px;
+bottom: 60px;
+margin-top: 60px;
+/* From https://css.glass */
+background: rgba(185, 87, 87, 0.14);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(4.7px);
+-webkit-backdrop-filter: blur(4.7px);
+border: 1px solid rgba(185, 87, 87, 0.3);
+
+}
+.head img{
+    position: relative;
+    bottom: 100px;
+    padding-right: 50%;
+    border-radius: 100px;
+    
+}
+
+.navbar li{
+    list-style: none;
+padding-left: px;
+    display: inline;
+    
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+
+.navbar h3{
+    display: inline;
+    margin-left: 100px;
+    position: relative;
+    bottom: 15px;
+    
+}
+.navbar{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(145,66,151,1) 100%);
+    position: relative;
+    margin-top: 10px;
+    padding-top: 40px;
+    margin-bottom: 20px;
+    /* From https://css.glass */
+background: rgba(185, 87, 87, 0.14);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(4.7px);
+-webkit-backdrop-filter: blur(4.7px);
+border: 1px solid rgba(185, 87, 87, 0.3);
+}
+.cosmetics{
+    position: relative;
+    margin-top: 50px;
+    margin-right: 1055px;
+    border: 2px solid black;
+    margin-left: 20px;
+}
+.wa38{
+    position: relative;
+    top: -350px;
+    margin-left: 300px;
+    border: 2px solid black;
+    margin-right: 775px;
+}
+.wa31{
+    position: relative;
+top: -700px;
+margin-left: 550px;
+border: 2px solid black;
+margin-right: 525px;
+
+}
+.wa37{
+    position: relative;
+    top: -1050px;
+    margin-left: 830px;
+    border: 2px solid black;
+    margin-right: 290px;   
+}
+.wa68{
+    position: relative;
+    top: -1430px;
+    margin-left: 1030px;
+    border: 2px solid black;
+    margin-right: 90px;
+}
+.border{
+    border: 2px solid black ;
+    margin-bottom: 300px;
+    position: relative;
+    padding-top: 100px;
+    border-width: px;
+    background-color: #FFC0CB;
+    
+}
+.wa69{
+    position: relative;
+    top: -1400px;
+    margin-left: 20px;
+    border: 2px solid black;
+    margin-right: 1095px;
+}
+.img22{
+    border: 2px solid black;
+    margin-right: 1055px;
+    margin-left: 20px;
+}
+.img23{
+    margin-left: 260px;
+    border: 2px solid black;
+    margin-top: -350px;
+    margin-right: 815PX;  
+}
+.img24{
+    margin-left: 500px;
+    margin-top: -350px;
+    border: 2px solid black;
+    margin-right: 575px;
+}
+.img25{
+    margin-left: 750px;
+    margin-top: -350px;
+    border: 2px solid black;
+    margin-right: 325px;
+} 
+.img27{
+    margin-left: 1000px;
+    margin-top: -350px;
+    border: 2px solid black;
+    margin-right: 75px;
+}
+.img29{
+    margin-left: 10px;
+    margin-top: 100px;
+    border: 2px solid black;
+    margin-right: 1060px;
+}
+.perfume{
+    border: 2px solid black;
+    background: rgb(240,231,56);
+background: linear-gradient(333deg, rgba(240,231,56,1) 0%, rgba(40,105,100,1) 100%);
+}
