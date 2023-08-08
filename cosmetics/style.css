@@ -17,6 +17,18 @@ backdrop-filter: blur(4.7px);
 border: 1px solid rgba(185, 87, 87, 0.3);
 
 }
+.navbar input{
+    position: relative;
+    bottom: 18px;
+    margin-left: 550px;
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(145,66,151,1) 100%);
+    color: white;
+
+cursor: pointer;
+    
+}
+
 .head img{
     position: relative;
     bottom: 100px;
@@ -57,96 +69,283 @@ box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 backdrop-filter: blur(4.7px);
 -webkit-backdrop-filter: blur(4.7px);
 border: 1px solid rgba(185, 87, 87, 0.3);
+
 }
 .cosmetics{
     position: relative;
     margin-top: 50px;
     margin-right: 1055px;
-    border: 2px solid black;
+    -moz-box-shadow: 0 0 10px #030303;
+-webkit-box-shadow: 0 0 10px #080808;
+box-shadow: 0 0 10px black;
     margin-left: 20px;
 }
 .wa38{
     position: relative;
     top: -350px;
     margin-left: 300px;
-    border: 2px solid black;
+    -moz-box-shadow: 0 0 10px #030303;
+-webkit-box-shadow: 0 0 10px #080808;
+box-shadow: 0 0 10px black;
     margin-right: 775px;
+    text-align: center;
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
 }
 .wa31{
     position: relative;
 top: -700px;
 margin-left: 550px;
-border: 2px solid black;
+-moz-box-shadow: 0 0 10px #030303;
+-webkit-box-shadow: 0 0 10px #080808;
+box-shadow: 0 0 10px black;
+text-align: center;
 margin-right: 525px;
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
 
 }
 .wa37{
     position: relative;
     top: -1050px;
     margin-left: 830px;
-    border: 2px solid black;
+    -moz-box-shadow: 0 0 10px #030303;
+-webkit-box-shadow: 0 0 10px #080808;
+box-shadow: 0 0 10px black;
+text-align: center;
     margin-right: 290px;   
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
 }
+
 .wa68{
     position: relative;
     top: -1430px;
     margin-left: 1030px;
-    border: 2px solid black;
+    -moz-box-shadow: 0 0 10px #030303;
+-webkit-box-shadow: 0 0 10px #080808;
+box-shadow: 0 0 10px black;
+text-align: center;
     margin-right: 90px;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
 }
 .border{
-    border: 2px solid black ;
+    -moz-box-shadow: 0 0 10px #030303;
+    -webkit-box-shadow: 0 0 10px #080808;
+    box-shadow: 0 0 10px black;
+
     margin-bottom: 300px;
     position: relative;
     padding-top: 100px;
     border-width: px;
-    background-color: #FFC0CB;
-    
+padding-left: 10px;
+    text-align: center;
+    background: rgb(252,4,4);
+background: linear-gradient(333deg, rgba(252,4,4,0.9934348739495799) 0%, rgba(248,241,242,0.9766281512605042) 100%);
 }
 .wa69{
     position: relative;
     top: -1400px;
     margin-left: 20px;
-    border: 2px solid black;
-    margin-right: 1095px;
+    -moz-box-shadow: 0 0 10px #030303;
+-webkit-box-shadow: 0 0 10px #080808;
+box-shadow: 0 0 10px black;
+margin-right: 1060px;
+    margin-right: 1100px;
+    text-align: center;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+}
+.cosmetics  {
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
 }
 .img22{
-    border: 2px solid black;
+    -moz-box-shadow: 0 0 10px #030303;
+-webkit-box-shadow: 0 0 10px #080808;
+box-shadow: 0 0 10px black;
+margin-right: 1000px;
     margin-right: 1055px;
     margin-left: 20px;
+    text-align: center;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+
 }
 .img23{
     margin-left: 260px;
     border: 2px solid black;
     margin-top: -350px;
-    margin-right: 815PX;  
+    -moz-box-shadow: 0 0 10px #030303;
+    -webkit-box-shadow: 0 0 10px #080808;
+    box-shadow: 0 0 10px black;
+    margin-right: 810px;  
+    text-align: center;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+
 }
 .img24{
     margin-left: 500px;
     margin-top: -350px;
-    border: 2px solid black;
-    margin-right: 575px;
+    -moz-box-shadow: 0 0 10px #030303;
+-webkit-box-shadow: 0 0 10px #080808;
+box-shadow: 0 0 10px black;
+margin-right: 575px;
+text-align: center;
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+
 }
 .img25{
     margin-left: 750px;
     margin-top: -350px;
-    border: 2px solid black;
-    margin-right: 325px;
+    -moz-box-shadow: 0 0 10px #030303;
+-webkit-box-shadow: 0 0 10px #080808;
+box-shadow: 0 0 10px black;
+margin-right: 330px;
+text-align: center;
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+
 } 
 .img27{
     margin-left: 1000px;
     margin-top: -350px;
-    border: 2px solid black;
-    margin-right: 75px;
+    -moz-box-shadow: 0 0 10px #030303;
+-webkit-box-shadow: 0 0 10px #080808;
+box-shadow: 0 0 10px black;
+margin-right: 75px;
+text-align: center;
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+
 }
 .img29{
     margin-left: 10px;
     margin-top: 100px;
-    border: 2px solid black;
-    margin-right: 1060px;
+    -moz-box-shadow: 0 0 10px #030303;
+-webkit-box-shadow: 0 0 10px #080808;
+box-shadow: 0 0 10px black;
+margin-right: 1065px;
+text-align: center;
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+
 }
 .perfume{
-    border: 2px solid black;
-    background: rgb(240,231,56);
-background: linear-gradient(333deg, rgba(240,231,56,1) 0%, rgba(40,105,100,1) 100%);
+    -moz-box-shadow: 0 0 10px #030303;
+    -webkit-box-shadow: 0 0 10px #080808;
+    box-shadow: 0 0 10px black;
+    background: rgb(252,4,4);
+background: linear-gradient(333deg, rgba(252,4,4,0.9934348739495799) 0%, rgba(248,241,242,0.9766281512605042) 100%);
+
+    
+text-align: center;
+}
+.deallast{
+    -moz-box-shadow: 0 0 10px #030303;
+    -webkit-box-shadow: 0 0 10px #080808;
+    box-shadow: 0 0 10px black;
+    margin-right: 1065px;
+    text-align: center;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+    
+}
+.dealone{
+    -moz-box-shadow: 0 0 10px #030303;
+    -webkit-box-shadow: 0 0 10px #080808;
+    box-shadow: 0 0 10px black;
+    margin-right: 750px;
+    text-align: center;
+    position: relative;
+    margin-left: 300px;
+    bottom: 395px;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+
+}
+.dealtwo{
+    -moz-box-shadow: 0 0 10px #030303;
+    -webkit-box-shadow: 0 0 10px #080808;
+    box-shadow: 0 0 10px black;
+    margin-right: 400px;
+    text-align: center;
+    position: relative;
+    margin-left: 600px;
+    margin-top: -790px;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+
+}
+.dealfour{
+    -moz-box-shadow: 0 0 10px #030303;
+    -webkit-box-shadow: 0 0 10px #080808;
+    box-shadow: 0 0 10px black;
+    margin-right: 150px;
+    text-align: center;
+    position: relative;
+    margin-left: 950px;
+    margin-top: -410px;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+
+}
+.dealfive{
+    -moz-box-shadow: 0 0 10px #030303;
+    -webkit-box-shadow: 0 0 10px #080808;
+    box-shadow: 0 0 10px black;
+    margin-right: 150px;
+    text-align: center;
+    
+    margin-right: 1110px;
+margin-top: 100px;
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+
+}.dealsix{
+    -moz-box-shadow: 0 0 10px #030303;
+    -webkit-box-shadow: 0 0 10px #080808;
+    box-shadow: 0 0 10px black;
+    margin-right: 150px;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 800px;
+margin-top: -410px;
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+
+}
+.dealseven{
+    -moz-box-shadow: 0 0 10px #030303;
+    -webkit-box-shadow: 0 0 10px #080808;
+    box-shadow: 0 0 10px black;
+    margin-right: 150px;
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 550px;
+margin-top: -390px;
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+
+}
+.deals{
+    -moz-box-shadow: 0 0 10px #030303;
+    -webkit-box-shadow: 0 0 10px #080808;
+    box-shadow: 0 0 10px black;
+text-align: center;
+background: rgb(252,4,4);
+background: linear-gradient(333deg, rgba(252,4,4,0.9934348739495799) 0%, rgba(248,241,242,0.9766281512605042) 100%);
+
+}
+.footbar textarea {
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 100%);
+color: #030303;
+
+}
+.footbar{
+    text-align: center;
 }
