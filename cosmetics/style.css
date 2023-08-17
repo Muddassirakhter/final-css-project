@@ -71,6 +71,9 @@ backdrop-filter: blur(4.7px);
 border: 1px solid rgba(185, 87, 87, 0.3);
 
 }
+.navbar input ::placeholder{
+    color: beige;
+}
 .cosmetics{
     position: relative;
     margin-top: 50px;
@@ -324,7 +327,7 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(181,103,166,1) 
     box-shadow: 0 0 10px black;
     margin-right: 150px;
     text-align: center;
-    margin-left: 550px;
+    margin-left: 540px;
     margin-right: 550px;
 margin-top: -390px;
 background: rgb(238,174,202);
@@ -349,3 +352,28 @@ color: #030303;
 .footbar{
     text-align: center;
 }
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) {
+
+}
+
+/* Portrait */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+
+}
+
+/* Landscape */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: landscape) {
+
+} 
